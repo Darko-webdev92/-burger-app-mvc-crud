@@ -1,0 +1,14 @@
+﻿@model LocationViewModel;
+
+<div asp-validation-summary="All"></div>
+<form method="post">
+    <label asp-for=Name>Name</label>
+    <input asp-for="Name" />
+    <label asp-for=Address>Address</label>
+    <input asp-for="Address" />
+    <label asp-for=OpensAt>OpensAt</label>
+    <input asp-for="OpensAt" />
+    <label asp-for=ClosesAt>OpensAt</label>
+    <input asp-for="ClosesAt" />
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>

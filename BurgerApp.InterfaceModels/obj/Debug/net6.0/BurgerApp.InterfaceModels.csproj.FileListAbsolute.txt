@@ -1,0 +1,12 @@
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\bin\Debug\net6.0\BurgerApp.InterfaceModels.deps.json
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\bin\Debug\net6.0\BurgerApp.InterfaceModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\bin\Debug\net6.0\BurgerApp.InterfaceModels.pdb
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\BurgerApp.InterfaceModels.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\BurgerApp.InterfaceModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\BurgerApp.InterfaceModels.AssemblyInfoInputs.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\BurgerApp.InterfaceModels.AssemblyInfo.cs
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\BurgerApp.InterfaceModels.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\BurgerApp.InterfaceModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\refint\BurgerApp.InterfaceModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\BurgerApp.InterfaceModels.pdb
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.InterfaceModels\obj\Debug\net6.0\ref\BurgerApp.InterfaceModels.dll

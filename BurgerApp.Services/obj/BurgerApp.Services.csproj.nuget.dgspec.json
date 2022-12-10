@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DAL\\BurgerApp.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DAL\\BurgerApp.DAL.csproj",
+        "projectName": "BurgerApp.DAL",
+        "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DAL\\BurgerApp.DAL.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\BurgerApp.DbModels.csproj": {
+                "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\BurgerApp.DbModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\BurgerApp.DbModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\BurgerApp.DbModels.csproj",
+        "projectName": "BurgerApp.DbModels",
+        "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\BurgerApp.DbModels.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\BurgerApp.InterfaceModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\BurgerApp.InterfaceModels.csproj",
+        "projectName": "BurgerApp.InterfaceModels",
+        "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\BurgerApp.InterfaceModels.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+        "projectName": "BurgerApp.Mappers",
+        "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\BurgerApp.DbModels.csproj": {
+                "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DbModels\\BurgerApp.DbModels.csproj"
+              },
+              "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\BurgerApp.InterfaceModels.csproj": {
+                "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\BurgerApp.InterfaceModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "projectName": "BurgerApp.Services",
+        "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Services\\BurgerApp.Services.csproj",
+        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DAL\\BurgerApp.DAL.csproj": {
+                "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.DAL\\BurgerApp.DAL.csproj"
+              },
+              "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\BurgerApp.InterfaceModels.csproj": {
+                "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.InterfaceModels\\BurgerApp.InterfaceModels.csproj"
+              },
+              "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj": {
+                "projectPath": "C:\\Users\\Darko\\source\\repos\\BurgerApp\\BurgerApp.Mappers\\BurgerApp.Mappers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

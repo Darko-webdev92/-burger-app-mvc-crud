@@ -1,0 +1,17 @@
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.deps.json
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.DbModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.DbModels.pdb
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.AssemblyInfo.cs
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.csproj.CopyComplete
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\refint\BurgerApp.Mappers.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\BurgerApp.Mappers.pdb
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\obj\Debug\net6.0\ref\BurgerApp.Mappers.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.InterfaceModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.Mappers\bin\Debug\net6.0\BurgerApp.InterfaceModels.pdb

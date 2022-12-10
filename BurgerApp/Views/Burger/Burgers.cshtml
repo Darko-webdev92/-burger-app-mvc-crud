@@ -1,0 +1,29 @@
+﻿@model IEnumerable<BurgerViewModel>
+
+  <a class="btn btn-primary" asp-action="CreateBurger">Add new burger</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">IsVegan</th>
+            <th scope="col">IsVegeterian</th>
+             <th scope="col">HasFries</th>
+             <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (var item in @Model)
+{   <tr>
+    <td>@item.Name</td>
+    <td>@item.Price</td>
+    <td>@item.IsVegan</td>
+        <td>@item.IsVegetarian</td>
+        <td>@item.HasFries</td>
+               <td><a asp-controller="Burger" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+           <a asp-controller="Burger" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>    
+    </tr>
+}
+    </tbody>
+</table>

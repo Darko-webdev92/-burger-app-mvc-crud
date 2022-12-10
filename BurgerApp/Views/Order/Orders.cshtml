@@ -1,0 +1,33 @@
+﻿@model IEnumerable<OrderViewModel>
+
+
+<a class="btn btn-primary" asp-action="CreateOrder">Add new burger</a>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">First Name</th>
+            <th scope="col">Last Name</th>
+            <th scope="col">Address</th>
+            <th scope="col">IsDelivered</th>
+             <th scope="col">Location</th>
+             <th scope="col">Burger</th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (var item in @Model)
+{   <tr>
+    <td>@item.FirstName</td>
+    <td>@item.LastName</td>
+    <td>@item.Address</td>
+        <td>@item.IsDelivered</td>
+        <td>@item.Location</td>
+        <td>@item.Burger</td>
+
+               <td><a asp-controller="Burger" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+           <a asp-controller="Burger" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>    
+    </tr>
+}
+    </tbody>
+</table>

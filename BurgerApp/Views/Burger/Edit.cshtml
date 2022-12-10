@@ -1,0 +1,16 @@
+﻿@model BurgerViewModel;
+
+  <div asp-validation-summary="All"></div>  
+<form method="post">
+    <label asp-for=Name>Name</label>
+    <input asp-for="Name" />
+    <label asp-for=Price>Name</label>
+    <input asp-for="Price" />
+    <label asp-for="IsVegan" class="form-label"></label>
+    <input type="checkbox" value="true" asp-for="IsVegan" />
+    <label asp-for="IsVegetarian" class="form-label"></label>
+    <input type="checkbox" value="true" asp-for="IsVegetarian" />
+    <label asp-for="HasFries" class="form-label"></label>
+    <input type="checkbox" value="true" asp-for="HasFries" />
+        <button type="submit" class="btn btn-primary">Update</button>
+</form>

@@ -1,0 +1,12 @@
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.deps.json
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\bin\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.AssemblyInfo.cs
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\refint\BurgerApp.ViewModels.dll
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\BurgerApp.ViewModels.pdb
+C:\Users\Darko\source\repos\BurgerApp\BurgerApp.ViewModels\obj\Debug\net6.0\ref\BurgerApp.ViewModels.dll

@@ -1,0 +1,48 @@
+﻿@model OrderViewModel;
+
+<div asp-validation-summary="All"></div>
+
+
+<form method="post">
+    <div class="row">
+        <div class="form-group col-md-6 mx-auto">
+            <label asp-for=FirstName></label>
+            <input asp-for="FirstName" class="form-control" />
+        </div>
+    </div>
+    <div class="row">
+
+        <div class="form-group col-md-6 mx-auto">
+            <label asp-for=LastName></label>
+            <input asp-for="LastName" class="form-control" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-6 mx-auto">
+            <label asp-for=Address></label>
+            <input asp-for="Address" class="form-control" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-check col-md-6 mx-auto mt-2">
+            <input type="checkbox" value="true" asp-for="IsDelivered" class="form-check-input" />
+            <label asp-for="IsDelivered" class="form-check-label"></label>
+        </div>
+    </div>
+    <div class="row">
+            <label class="form-label">Select location</label>
+            <select class="form-select" asp-items ="Model.Locations" asp-for="LocationSelected">
+            </select>
+    </div>
+        <div class="row">
+            <label class="form-label">Select location</label>
+            <select class="form-select" asp-items ="Model.Burgers" asp-for="BurgerSelected">
+            </select>
+    </div>
+    <div class="row">
+        <div class="col-md-6 mx-auto">
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </div>
+</form>
+
